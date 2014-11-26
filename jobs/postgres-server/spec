@@ -5,5 +5,4 @@ templates:
   pgsql_ctl.erb: bin/pgsql_ctl
 
 packages:
-- common
 - postgresql-server
