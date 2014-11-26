@@ -40,7 +40,6 @@ networks:
 resource_pools:
  - name: rp1
    network: default
-   size: 10
    stemcell:
     name: bosh-vsphere-esxi-centos-go_agent
     version: 2776
