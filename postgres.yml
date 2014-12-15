@@ -3,7 +3,7 @@ name: postgres
 director_uuid: 36d4ba35-bed3-4993-b31b-d570af0f961d
 release:
   name: cf-postgres
-  version: latest
+  version: 0+dev.5 
 
 compilation:
   workers: 2
